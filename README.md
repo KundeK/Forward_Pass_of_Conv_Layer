@@ -28,7 +28,7 @@ The goal of this project was to reduce the execution time of the forward pass fo
    - Initialize each output pixel to 0, compute its value by iterating over each input channel and kernel element, summing products of corresponding input pixels and kernel values.
    - Repeat for each pixel in the output feature maps, completing the convolution for each image in the batch.
 
-### Performance Analysis
+### Performance Analysis using gprof
 
 - **Function Call Counts and Times:**
   - Number of times each function is called.
