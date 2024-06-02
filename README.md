@@ -1,6 +1,4 @@
-# Project README
-
-## Project Overview
+# Project Summary
 
 The goal of this project was to reduce the execution time of the forward pass for improved real-time processing and throughput, particularly for applications such as autonomous vehicles, augmented reality, and faster decision-making in response to environmental changes.
 
